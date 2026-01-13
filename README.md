@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# CMS UI Application
+
+A React-based Content Management System UI with modern components and features.
+
+## Features
+
+- **Login System** - Secure authentication with Formik validation
+- **Dashboard** - Main dashboard with navigation
+- **Contract Employee Management** - CRUD operations for contract employees
+- **DataTable** - Reusable table component with sorting and pagination
+- **Environment Configuration** - Separate configs for development and production
+
+## Tech Stack
+
+- React 19
+- React Router DOM 7
+- Bootstrap 5
+- Formik + Yup (forms and validation)
+- Axios (HTTP client)
+- React Icons
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
