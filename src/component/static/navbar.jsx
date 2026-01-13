@@ -55,7 +55,7 @@ const Navbar = () => {
                                 </a>
                             </li>
                         </ul>
-                        <form className="d-flex me-3">
+                        {/* <form className="d-flex me-3">
                             <input
                                 className="form-control me-2"
                                 type="search"
@@ -70,7 +70,7 @@ const Navbar = () => {
                             >
                                 <i className="fas fa-search"></i>
                             </button>
-                        </form>
+                        </form> */}
                         <button
                             className="btn btn-outline-light"
                             type="button"
